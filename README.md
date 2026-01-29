@@ -65,7 +65,6 @@ Which one should you pick?<br>
  * Want a short, finished masterpiece? Go with Fullmetal Alchemist: Brotherhood.<br>
  * Want to be "hooked" from episode one? Go with Death Note.<br>
  * Want something modern and visually stunning? Go with Demon Slayer.</p>
-</article>
-</section>
-</BODY>
-</HTML>
+</article><br>
+<p></p>Some websites for watching free anime are animekai - anikai.to and 9anime - 9anime.org.lv</p>
+
